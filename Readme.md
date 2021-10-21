@@ -19,7 +19,7 @@ Para que você possa focar somente na parte de testes unitários sem precisar es
 [Link do projeto sem as implementações][linkProject]
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Test" title="#Test" src="" width="400px">
+  <img alt="Test" title="#Test" src="https://raw.githubusercontent.com/jeandsontb/DesafioIginite-RocketSeat-04-Tests-Unitarios/main/screen/testUnits.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
